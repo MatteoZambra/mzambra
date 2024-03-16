@@ -136,7 +136,6 @@ publications:
     title: Publications
     intro: |
         Publications during and prior to the PhD career
-     
     papers:
       - title: Multi-Modal Learning-Based Reconstruction of High-Resolution Spatial Wind Speed Fields
         link: [arXiv preprint]({https://arxiv.org/abs/2312.08933)
