@@ -78,23 +78,15 @@ education:
           # 
           
 experiences:
-    title: Experiences
+    title: PhD in Deep Learning applied to Oceanographical Observations
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Researcher
+        time: Nov 2020 - Jan 2024 
+        company: IMT Atlantique Bretagne-Pays de la Loire, 29280 Brest, France
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Thesis title: Multimodal AI Methods for Oceanographic Observation and Multi-Sensor, Heterogeneous Maritime Surveillance
+
+          Original title: Méthodes IA multimodales dans des contextes d’observation océanographique et de surveillance maritime multi-capteurs hétérogènes
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
