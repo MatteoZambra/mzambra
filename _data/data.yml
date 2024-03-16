@@ -140,7 +140,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: Multi-Modal Learning-Based Reconstruction of High-Resolution Spatial Wind Speed Fields
-        link: [arXiv preprint]({https://arxiv.org/abs/2312.08933)
+        link: "#"
         authors: Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Fablet, R.
         conference: arXiv preprint
 
