@@ -16,9 +16,9 @@ sidebar:
     email: matteo.zambra1@gmail.com
     #phone: 012 345 6789
     #timezone: America/Cancun Timezone
-    #citizenship:
+    citizenship: Italian
     #website: blog.webjeda.com #do not add http://
-    #linkedin: alandoe
+    linkedin: matteozambra
     #xing: alandoe
     github: MatteoZambra
     #telegram: # add your nickname without '@' sign
@@ -42,27 +42,23 @@ sidebar:
         - idiom: English
           level: Professional
 
-    #interests:
-      #title: Interests
-      #info:
-        #- item: Climbing
+    interests:
+      title: Interests
+      info:
+        - item: **Guitar**, both electric and acoustic
         #  link:
 
-        #- item: Snowboarding
+        - item: **Fitness** and physical activity
         #  link:
 
-       # - item: Cooking
+        - item: **Reading** time, historical non-fiction and geopolitical literature
         #  link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      *Living version of my CV. Pdf file available on request.*
+
 education:
     title: Education
     info:
@@ -132,10 +128,10 @@ skills:
       - name: Python
         level: 75%
 
-      - name: Scientific Python—ie numpy, matplotlib, pandas, scikit-learn
+      - name: *Scientific Python*—ie numpy, matplotlib, pandas, scipy
         level: 85%
 
-      - name: Machine Learning—ie scikit-learn, Pytorch
+      - name: *Machine Learning*—ie scikit-learn, Pytorch
         level: 80%
 
       - name: Bash
@@ -147,7 +143,7 @@ skills:
       - name: StackOverflow
         level: 90%
 
-      - name: Ubuntu
+      - name: Ubuntu OS
         level: 75%
 
       - name: Git
