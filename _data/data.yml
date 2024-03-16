@@ -138,6 +138,21 @@ skills:
       - name: Machine Learning—ie scikit-learn, Pytorch
         level: 80%
 
+      - name: Bash
+        level: 40%
+
+      - name: C/C++
+        level: 15%
+
+      - name: StackOverflow
+        level: 90%
+
+      - name: Ubuntu
+        level: 75%
+
+      - name: Git
+        level: 40%
+
 
 
 #footer: >
