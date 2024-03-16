@@ -4,7 +4,7 @@
 
 sidebar:
     position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -139,10 +139,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Multi-Modal Learning-Based Reconstruction of High-Resolution Spatial Wind Speed Fields
+        link: [arXiv preprint]({https://arxiv.org/abs/2312.08933)
+        authors: Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Fablet, R.
+        conference: arXiv preprint
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
