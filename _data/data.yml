@@ -94,43 +94,6 @@ experiences:
         details: |
             - French Defense shipbuilding Research & Development
             - Expertise and *know-how* exchange, exposure to the enterprise environment
-      
-
-#certifications:
-     # title: Certifications
-     # list:
-       # - name: CV Builder
-       #   start: 2020
-        #  end: 2021
-        #  organization: Microsoft
-        #  credentialid: 111-222
-        #  credentialurl: www.google.com
-        #  credentialname: Google
-        #  details: |
-        #    Details about cert. Lorem ipsum dolor sit amet, consectetur
-            
-
-#projects:
- #   title: Projects
-  #  intro: >
-  #    You can list your side projects in this
-      
- #   assignments:
-    #  - title: Velocity
-    #    link: "#hook"
-    #    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-
-#oss:
- #   title: OSS Contributions
- #   intro: >
- #     You can list your open source software contributions in this
- #     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- #     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
- #   contributions:
-  #    - title: Tempo
-  #      link: "#"
-  #      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 publications:
     title: Publications
@@ -168,27 +131,6 @@ skills:
     toolset:
       - name: Python
         level: 75%
-
-      - name: Scientific Python: numpy, matplotlib, pandas, scikit-learn
-        level: 90%
-
-      - name: Deep Learning with Pytorch
-        level: 80%
-
-      - name: Bash
-        level: 40%
-
-      - name: C/C++
-        level: 15%
-
-      - name: StackOverflow
-        level: 95%
-
-      - name: Ubuntu 
-        level: 80%
-
-      - name: Git
-        level: 30%
 
 
 
