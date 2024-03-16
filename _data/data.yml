@@ -132,6 +132,12 @@ skills:
       - name: Python
         level: 75%
 
+      - name: Scientific Python—ie numpy, matplotlib, pandas, scikit-learn
+        level: 85%
+
+      - name: Machine Learning—ie scikit-learn, Pytorch
+        level: 80%
+
 
 
 #footer: >
