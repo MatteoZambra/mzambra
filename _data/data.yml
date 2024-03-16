@@ -135,14 +135,12 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Publications during the PhD and prior
     papers:
       - title: Multi-Modal Learning-Based Reconstruction of High-Resolution Spatial Wind Speed Fields
         link: "https://arxiv.org/abs/2312.08933"
         authors: Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Fablet, R.
-        conference: arXiv preprint
+        conference: arXiv preprint (2023)
 
       - title: Learning-Based Temporal Estimation of In-Situ Wind Speed From Underwater Passive Acoustics
         link: "https://doi.org/10.1109/JOE.2023.3288970"
@@ -168,24 +166,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Scientific Python: numpy, matplotlib, pandas, scikit-learn
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Deep Learning with Pytorch
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: Bash
+        level: 40%
+
+      - name: C/C++
+        level: 15%
+
+      - name: StackOverflow
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Ubuntu 
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
+      - name: Git
+        level: 30%
 
 
 
