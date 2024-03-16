@@ -135,32 +135,25 @@ experiences:
 publications:
     title: Publications
     intro: |
-        Publications during and prior to the PhD career
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: Multi-Modal Learning-Based Reconstruction of High-Resolution Spatial Wind Speed Fields
-        link: [arXiv preprint]({https://arxiv.org/abs/2312.08933)
-        authors: Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Fablet, R.
-        conference: arXiv preprint
-        
-      - title: Learning-Based Temporal Estimation of In-Situ Wind Speed From Underwater Passive Acoustics
-        link: DOI: [https://doi.org/10.1109/JOE.2023.3288970](https://doi.org/10.1109/JOE.2023.3288970)
-        authors: Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Pensieri, S., Bozzano, R., Fablet, R.
-        conference: IEEE Journal of Oceanic Engineering, vol. 48, no. 4, pp. 1215-1225, Oct. 2023
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: Trainable dynamical estimation of above-surface wind speed using underwater passive acoustics
-        link: DOI: [https://doi.org/10.1109/OCEANSLimerick52467.2023.10244715](https://doi.org/10.1109/OCEANSLimerick52467.2023.10244715)
-        authors: Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Pensieri, S., Bozzano, R., Fablet, R.
-        conference:  OCEANS 2023–Limerick, Limerick, Ireland, 2023, pp. 1-6
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A Developmental Approach for Training Deep Belief Networks
-        link: DOI: [https://doi.org/10.1007/s12559-022-10085-5](https://doi.org/10.1007/s12559-022-10085-5)
-        authors: Zambra, M., Testolin, A. and Zorzi, M.
-        conference: Cognitive Computation 15, 103–120, 2023
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
-      - title: Emergence of Network Motifs in Deep Neural Networks
-        link: DOI: [https://doi.org/10.3390/e22020204](https://doi.org/10.3390/e22020204)
-        authors: Zambra, M., Maritan, A., Testolin, A.
-        conference: Entropy. 2020. 22, 204
 
 skills:
     title: Skills &amp; Proficiency
