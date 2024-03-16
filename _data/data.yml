@@ -87,26 +87,14 @@ experiences:
           Thesis title: Multimodal AI Methods for Oceanographic Observation and Multi-Sensor, Heterogeneous Maritime Surveillance. Accessible at [theses.fr](https://theses.fr/2024IMTA0391)
 
           **Keywords**: Physics-informed AI | Inverse Problems | Geophysics | Multimodal Data Processing 
-    
-    title: Company Visit
-    info:
+        
       - role: Visiting Ph.D. Student
         time: May - June 2023
         company: Naval Group, 83190 Toulon, France
         details: |
             - French Defense shipbuilding Research & Development
             - Expertise and know-how exchange, exposure to the enterprise environment
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      
 
 certifications:
       title: Certifications
