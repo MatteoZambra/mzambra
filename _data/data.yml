@@ -5,7 +5,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in the main section instead of in the sidebar
 
     # Profile information
     name: Matteo Zambra
@@ -60,6 +60,7 @@ career-profile:
       *Living version of my CV. Pdf file available on request.*
 
       **My profile**— Data Science ; Machine and Deep Learning ; Mathematical Modelling
+      
 education:
     title: Education
     info:
@@ -77,14 +78,12 @@ education:
 experiences:
     title: Full Employment as Data Scientist Junior
     info:
-    - role: Data Scientist
-      time: Apr 2024 – Current
-      company: Aquafil Group S.p.A., 38062 Arco, Italy
-      details: |
+      - role: Data Scientist
+        time: Apr 2024 – Current
+        company: Aquafil Group S.p.A., 38062 Arco, Italy
+        details: |
           **Keywords**: Synthetic fibres and polymers Smart Manufacturing ; Production Process Efficiency
     
-    title: Ph.D. Research
-    info:
       - role: Researcher
         time: Nov 2020 - Jan 2024 
         company: IMT Atlantique Bretagne-Pays de la Loire, 29280 Brest, France
@@ -131,14 +130,14 @@ publications:
         conference: Entropy. 2020. 22, 204
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
       - name: Python
         level: 75%
 
       - name: Scientific Python—ie numpy, matplotlib, pandas, scipy
-        level: 85%
+        level: 90%
 
       - name: Machine Learning—ie scikit-learn, Pytorch
         level: 80%
@@ -157,8 +156,3 @@ skills:
 
       - name: Git
         level: 40%
-
-
-
-#footer: >
-   # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
