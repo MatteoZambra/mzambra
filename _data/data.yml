@@ -59,9 +59,7 @@ career-profile:
     summary: |
       *Living version of my CV. Pdf file available on request.*
 
-      **My profile**—I studied Environmental Engineering and Applied Mathematics. 
-      I pursued my Ph.D. in the field of Deep Learning for multi-modal oceanic data processing. 
-      I aim to carry on my career in the fields of Data Science, AI and Machine Learning.
+      **My profile**— Data Science | Machine and Deep Learning | Mathematical Modelling
 education:
     title: Education
     info:
@@ -77,6 +75,14 @@ education:
           # 
           
 experiences:
+    title: Full Employment as Data Scientist Junior
+    info:
+    - role: Data Scientist
+      time: Apr 2024 – Current
+      company: Aquafil Group S.p.A., 38062 Arco, Italy
+      details: 
+          **Keywords** Synthetic fibres and polymers Smart Manufacturing | Production Process Efficiency
+    
     title: Ph.D. Research
     info:
       - role: Researcher
